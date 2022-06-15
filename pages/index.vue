@@ -174,7 +174,7 @@ export default {
 
     img {
       width: 214px;
-      height: 200px;
+      height: 201px;
     }
 
     h3 {

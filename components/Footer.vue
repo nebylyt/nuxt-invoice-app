@@ -1,6 +1,6 @@
 <template>
   <div class="container flex footer">
-    <a href="https://github.com/MNBoy/nuxt-invoice-app" target="_blank">
+    <a href="https://github.com/MNBoy/nuxt-invoice-app">
       <p>GITHUB</p>
     </a>
   </div>

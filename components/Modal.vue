@@ -38,11 +38,11 @@ export default {
 
 <style lang="scss" scoped>
 .modal {
-  z-index: 100;
+  z-index: 110;
   position: fixed;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 101vh;
   width: 100%;
   .modal-content {
     border-radius: 20px;

@@ -23,7 +23,7 @@ header {
   background-color: #1e2139;
   @media (min-width: 900px) {
     min-width: 90px;
-    min-height: 100%;
+    min-height: 99%;
     flex-direction: column;
     border-radius: 0 20px 20px 0;
   }
